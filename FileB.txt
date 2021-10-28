@@ -1,0 +1,2 @@
+Add B on branch B
+Edit B after add B on branch B
